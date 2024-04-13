@@ -1,4 +1,4 @@
-const API_KEY = ""; // Get yours for free at https://judge0.com/ce and https://judge0.com/extra-ce
+const API_KEY = "eb3e7b8ad8mshbfdacc1bf288976p1a978bjsn1f9767ed77eb"; // Get yours for free at https://judge0.com/ce and https://judge0.com/extra-ce
 
 const AUTH_HEADERS = API_KEY ? {
     "X-RapidAPI-Key": API_KEY
